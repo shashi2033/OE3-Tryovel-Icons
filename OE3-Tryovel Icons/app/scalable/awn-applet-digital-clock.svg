@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DDDDDD;}
+	.st1{fill:#231F20;}
+	.st2{fill:none;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'SFProDisplay-Regular';}
+	.st5{font-size:51.5244px;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#FE9124;}
+</style>
+<path class="st0" d="M110.9,85.5C132,63.4,164.4,30.3,214.1,24c61.5-7.8,110.5,30.3,135,49.4c94.1,73.2,180.2,233.3,124,326
+	c-72.8,120-374.9,111.4-443.4-31.8C-15,274.1,51.5,147.8,110.9,85.5z"/>
+<path class="st1" d="M480.8,399.4C408,519.4,106,510.8,37.4,367.6C31,354,26.8,339.8,24.7,325.1c-2.9-19.3-2.3-39.3,0.9-59.3
+	c11.1-69.4,53.7-139,93.1-180.3c21.1-22.1,53.5-55.2,103.2-61.5c61.5-7.8,110.5,30.3,135,49.4C450.9,146.7,537,306.7,480.8,399.4z"
+	/>
+<rect x="61.5" y="178.3" class="st2" width="587" height="199"/>
+<g>
+	<text transform="matrix(1.0054 0 0 1 327.8711 142.5093)" class="st3 st4 st5">1</text>
+	<text transform="matrix(1.0054 0 0 1 384.7627 218.1772)" class="st3 st4 st5">2</text>
+	<text transform="matrix(1.0054 0 0 1 426.5 302.2847)" class="st3 st4 st5">3</text>
+	<text transform="matrix(1.0054 0 0 1 396.999 396.623)" class="st3 st4 st5">4</text>
+	<text transform="matrix(1.0054 0 0 1 333.8906 460.2705)" class="st3 st4 st5">5</text>
+	<text transform="matrix(1.0054 0 0 1 238.0991 460.2705)" class="st3 st4 st5">6</text>
+	<text transform="matrix(1.0054 0 0 1 156.0361 427.0068)" class="st3 st4 st5">7</text>
+	<text transform="matrix(1.0054 0 0 1 74.2549 365.9287)" class="st3 st4 st5">8</text>
+	<text transform="matrix(1.0054 0 0 1 46.2549 280.6846)" class="st3 st4 st5">9</text>
+	<text transform="matrix(1.0054 0 0 1 74.2549 199.1196)" class="st3 st4 st5">10</text>
+	<text transform="matrix(1.0054 0 0 1 128.6216 132.2773)" class="st3 st4 st5">11</text>
+	<text transform="matrix(1.0054 0 0 1 214.2466 94.0107)" class="st3 st4 st5">12</text>
+	<path class="st6" d="M249.2,256.8L249.2,256.8c1.9-0.6,3.8,0.5,4.4,2.3c0,0.1,0.1,0.2,0.1,0.2l46.3,163c0.6,1.9-0.5,3.8-2.4,4.4
+		c-0.1,0-0.2,0.1-0.2,0.1l0,0c-1.9,0.6-3.8-0.5-4.4-2.3c0-0.1-0.1-0.2-0.1-0.2l-46.3-163c-0.7-1.7,0.2-3.6,1.9-4.2
+		C248.7,256.8,248.9,256.8,249.2,256.8z"/>
+	<path class="st7" d="M263.9,188.3c1,0.2,1.6,1.2,1.5,2.2L244,285.4c-0.2,1-1.2,1.6-2.2,1.5c-1.1,0-1.5-1.1-1.5-2.2l21.4-94.9
+		c0-0.9,0.7-1.6,1.7-1.6C263.6,188.1,263.8,188.2,263.9,188.3z"/>
+	<path class="st6" d="M136.7,228.4L136.7,228.4c0.4-1.9,2.3-3.1,4.2-2.7c0.1,0,0.2,0,0.2,0.1l107.3,28.7c1.9,0.4,3.1,2.3,2.7,4.2
+		c0,0.1,0,0.2-0.1,0.2l0,0c-0.4,1.9-2.3,3.1-4.2,2.7c-0.1,0-0.2,0-0.2-0.1l-107.3-28.7C137.4,232.1,136.4,230.3,136.7,228.4z"/>
+	<ellipse class="st3" cx="249.2" cy="258.6" rx="11.1" ry="11"/>
+</g>
+</svg>
